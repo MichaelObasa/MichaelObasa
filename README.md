@@ -2,7 +2,7 @@
 
 **`DevOps Engineer`**
 
-I'm a DevOps Engineer with a continuous desire to get better at what I do one day at a time. I build projects here that help develop my skills as a DevOps Engineer as well as use for examples by others looking to develop their skills. I have previously worked in the Fast Moving Consumer Goods and Telecoms industry for some of the largest companies in the world such as Pepsi, Budweiser Brewing Group and Virgin Media.
+I'm a DevOps Engineer with a continuous desire to get better at what I do one day at a time. I build projects here that help develop my skills as a DevOps Engineer as well as use for examples by others looking to develop their skills. I have previously worked in the Telecoms and Fast Moving Consumer Goods for some of the largest companies in the world such as Virgin Media, Pepsi and Budweiser Brewing Group.
 
 ### 🧰 Languages and Tools
 
