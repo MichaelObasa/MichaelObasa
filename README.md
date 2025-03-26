@@ -2,7 +2,7 @@
 
 **`DevOps Engineer`**
 
-I'm a DevOps Engineer with a continuous desire to get better at what I do one day at a time. I build projects here that help develop my skills as a DevOps Engineer as well as use for examples by others looking to develop their skills. I have previously worked in the Telecoms and Fast Moving Consumer Goods for some of the largest companies in the world such as Virgin Media, Pepsi and Budweiser Brewing Group, and now leverage my skills to solve real problems for clients of all sizes.
+I'm a DevOps Engineer with a continuous desire to get better at what I do one day at a time. I build projects here that help develop my skills as a DevOps Engineer as well as use for examples by others looking to develop their skills. I've previously worked in Telecoms and the Fast Moving Consumer Goods Industry for some of the largest companies in the world such as Virgin Media, Pepsi and Budweiser Brewing Group, and now leverage my skills to solve real problems for clients of all sizes.
 
 ### 🧰 Languages and Tools
 
@@ -33,10 +33,10 @@ I'm a DevOps Engineer with a continuous desire to get better at what I do one da
 
 <details>
  <summary><h3>👨‍💻 Michael's Coding Journey</h3></summary>
-  I started my coding journey as someone who didn't have a traditional Computer Science background but was still hungry to learn all the tools I felt were relevant to solving real-world problems - SQL, Tableau, Python, Linux etc. Having obtained a Bachelors degree in Political Science, I initially began my career working in Private Equity as an Analyst and then in the Fast Moving Consumer Goods Industry working for Blue-Chip organisations such as Pepsi and Budweiser as a National Account Manager. However, whilst working there I had a desire to develop my programming knowledge, a desire which eventually led me to pursue a career in DevOps Engineering.
+I started my coding journey as someone who didn't have a traditional Computer Science background but was still hungry to learn all the tools I felt were relevant to solving real-world problems - SQL, Tableau, Python, Linux etc. Having obtained a Bachelors degree in Political Science, I initially began my career working in Private Equity as an Analyst and then in the Fast Moving Consumer Goods Industry working for Blue-Chip organisations such as Pepsi and Budweiser as a National Account Manager. However, whilst working there I still wanted to develop my programming knowledge but just didn't know how to go about it, a desire which eventually led me to pursue a career in DevOps.
 </p>
-I have since dedicated myself to using technology to make life easier, both personally and professionally for clients, and to continually learning key skills and practices that I believe will make me a great DevOps Engineer such as Linux Server Administration, Programming Fundamentals (Python and Bash), Networking Fundamentals, Security Fundamentals, Database Fundamentals (MySQL, PostgreSQL and SQLite), Cloud Fundamentals (IBM Cloud & AWS) aswell as Certification across IBM, AWS, Microsoft and GCP.
+I've since dedicated myself to using technology to make life easier, both personally and professionally for clients, and to continually learning key skills and practices that I believe will make me a great DevOps Engineer such as Linux Server Administration, Programming Fundamentals (Python, Powershell and Bash), Networking Fundamentals, Security Fundamentals, Database Fundamentals (MySQL, PostgreSQL and SQLite), Cloud Fundamentals (Azure/AWS) aswell as Certifications across Azure and AWS.
 </p>
-I am always eager to take on new challenges, expand my expertise, and contribute to meaningful projects. Feel free to explore my GitHub repositories to get a deeper understanding of my work. You can also connect with me on LinkedIn for potential collaboration or further discussions.
+I'm always eager to take on new challenges, expand my expertise, and contribute to meaningful projects. Feel free to explore my GitHub repositories to get a feel of my work. You can also connect with me on LinkedIn for potential collaboration or further discussions.
 </p>
 [LinkedIN]: www.linkedin.com/in/michael-obasa
