@@ -4,7 +4,7 @@
 
 I'm a DevOps Engineer focused on cloud automation, infrastructure as code, and continuous delivery. I build real-world projects that help sharpen my skills while serving as examples for others on a similar path.  
 
-I didn’t start in tech—I studied Political Science and began my career in Private Equity and FMCG, working with brands like Virgin Media, Pepsi, and Budweiser. But a deep interest in tech led me to pivot, and now I use tools like Azure, AWS, Docker, Terraform, and Kubernetes to help businesses automate and scale their systems efficiently.
+I didn’t start in tech—I studied Political Science and began my career in Private Equity and the FMCG sector, working with brands like Virgin Media, Pepsi, and Budweiser. But a deep interest in tech led me to pivot, and now I use tools like Azure, AWS, Docker, Terraform, and Kubernetes to help businesses automate and scale their systems efficiently.
 
 ---
 
@@ -29,16 +29,18 @@ I didn’t start in tech—I studied Political Science and began my career in Pr
 
 ### 📈 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelObasa&show_icons=true&theme=gruvbox)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelObasa&show_icons=true&theme=gruvbox)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelObasa&layout=compact&theme=gruvbox)
 
 ---
 
 ### 👨‍💻 My Journey
 
-I transitioned into tech after years in client-facing roles, bringing a business-first mindset to my work in DevOps.  
+I didn’t start in tech—I studied Political Science and spent over 5 years in B2B and enterprise sales, managing multi-million pound accounts for companies like BT, Pepsi, and Budweiser. That experience taught me how to work with stakeholders, solve real problems, and stay client-focused—skills I now bring into engineering.
 
-Since then, I’ve built projects across Azure and AWS, worked with IaC (Terraform, Bicep), and deployed containers using Docker and Kubernetes. I’ve written CI/CD pipelines, automated VM and app deployments, and recently completed a multi-cloud project deploying Kubernetes clusters on both AWS and Azure using Terraform and GitHub Actions.
+Since transitioning into DevOps, I’ve built projects across Azure and AWS, worked with IaC (Terraform, Bicep), and deployed containers using Docker and Kubernetes. I’ve written CI/CD pipelines, automated app and infrastructure deployments, and recently completed a multi-cloud project deploying Kubernetes clusters to both AWS and Azure using Terraform and GitHub Actions.
+
+On the side, I’m also building [Indexr](https://indexr.super.site)—a decentralized crypto index fund platform—applying my DevOps and cloud skills to Web3 infrastructure and smart contract deployment.
 
 I'm passionate about using technology to make life easier—for users, teams, and organizations. Always learning, always building.
 
