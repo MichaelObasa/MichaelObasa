@@ -1,42 +1,51 @@
 # 👋 Michael Obasa
 
-**`DevOps Engineer`**
+**`DevOps Engineer | Cloud Automation | CI/CD | IaC`**
 
-I'm a DevOps Engineer with a continuous desire to get better at what I do one day at a time. I build projects here that help develop my skills as a DevOps Engineer as well as use for examples by others looking to develop their skills. I've previously worked in Telecoms and the Fast Moving Consumer Goods Industry for some of the largest companies in the world such as Virgin Media, Pepsi and Budweiser Brewing Group, and now leverage my skills to solve real problems for clients of all sizes.
+I'm a DevOps Engineer focused on cloud automation, infrastructure as code, and continuous delivery. I build real-world projects that help sharpen my skills while serving as examples for others on a similar path.  
 
-### 🧰 Languages and Tools
+I didn’t start in tech—I studied Political Science and began my career in Private Equity and FMCG, working with brands like Virgin Media, Pepsi, and Budweiser. But a deep interest in tech led me to pivot, and now I use tools like Azure, AWS, Docker, Terraform, and Kubernetes to help businesses automate and scale their systems efficiently.
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-<img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-<img align="left" alt="jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="digitalocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
-<br />
+---
 
-#
+### 🧰 Tools & Technologies
 
-### 📊 Stats
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img align="left" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="DigitalOcean" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
+<br clear="left"/>
+
+---
+
+### 📈 GitHub Stats
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelObasa&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelObasa&layout=compact&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MichaelObasa&theme=gruvbox&border_radius=4.5) -->
+---
 
-#
+### 👨‍💻 My Journey
 
-<details>
- <summary><h3>👨‍💻 Michael's Coding Journey</h3></summary>
-I started my coding journey as someone who didn't have a traditional Computer Science background but was still hungry to learn all the tools I felt were relevant to solving real-world problems - SQL, Tableau, Python, Linux etc. Having obtained a Bachelors degree in Political Science, I initially began my career working in Private Equity as an Analyst and then in the Fast Moving Consumer Goods Industry working for Blue-Chip organisations such as Pepsi and Budweiser as a National Account Manager. However, whilst working there I still wanted to develop my programming knowledge but just didn't know how to go about it, a desire which eventually led me to pursue a career in DevOps.
-</p>
-I've since dedicated myself to using technology to make life easier, both personally and professionally for clients, and to continually learning key skills and practices that I believe will make me a great DevOps Engineer such as Linux Server Administration, Programming Fundamentals (Python, Powershell and Bash), Networking Fundamentals, Security Fundamentals, Database Fundamentals (MySQL, PostgreSQL and SQLite), Cloud Fundamentals (Azure/AWS) aswell as Certifications across Azure and AWS.
-</p>
-I'm always eager to take on new challenges, expand my expertise, and contribute to meaningful projects. Feel free to explore my GitHub repositories to get a feel of my work. You can also connect with me on LinkedIn for potential collaboration or further discussions.
-</p>
-[LinkedIN]: www.linkedin.com/in/michael-obasa
+I transitioned into tech after years in client-facing roles, bringing a business-first mindset to my work in DevOps.  
+
+Since then, I’ve built projects across Azure and AWS, worked with IaC (Terraform, Bicep), and deployed containers using Docker and Kubernetes. I’ve written CI/CD pipelines, automated VM and app deployments, and recently completed a multi-cloud project deploying Kubernetes clusters on both AWS and Azure using Terraform and GitHub Actions.
+
+I'm passionate about using technology to make life easier—for users, teams, and organizations. Always learning, always building.
+
+---
+
+### 🔗 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/michael-obasa)  
+[Medium](https://medium.com/@michaelobasa2)  
+[GitHub Portfolio](https://github.com/MichaelObasa)
