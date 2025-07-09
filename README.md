@@ -1,6 +1,6 @@
 # 👋 Michael Obasa
 
-**`DevOps Engineer | Cloud Automation | CI/CD | IaC`**
+**`DevOps Engineer | Cloud Automation | CI/CD | IaC | Building Cool Products That People Want`**
 
 I'm a DevOps Engineer and builder focused on cloud automation, infrastructure as code, and continuous delivery. I build real-world projects that help sharpen my skills while serving as examples for others on a similar path.  
 
