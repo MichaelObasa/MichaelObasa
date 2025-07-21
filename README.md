@@ -43,7 +43,7 @@ On the side, I’m also building [Indexr](https://indexr.lovable.app) a decentra
 I'm passionate about using technology to make life easier for users, teams and organizations. Always learning, always building.
 
 "Make something people want"
-- YC
+ YC
 ---
 
 ### 🔗 Let's Connect
