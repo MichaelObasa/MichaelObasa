@@ -40,7 +40,8 @@ Since transitioning into DevOps, I’ve built projects across Azure and AWS, wor
 
 On the side, I’m also building [Indexr](https://indexr.lovable.app) a decentralized crypto index fund platform where I'm applying my DevOps, blockchain and cloud skills to Web3 infrastructure and smart contract deployment.
 
-I'm passionate about using technology to make life easier for users, teams and organizations. Always learning, always building.
+I'm passionate about using technology to make life easier for users, teams and organizations. 
+Always learning, always building.
 
 "Make something people want" - YC
 
