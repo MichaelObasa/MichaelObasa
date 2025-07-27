@@ -2,7 +2,7 @@
 
 **`DevOps Engineer | Cloud Automation | CI/CD | IaC | Building Cool Products That People Want`**
 
-I'm a DevOps Engineer and builder focused on cloud automation, infrastructure as code, AI and continuous delivery. I build real-world projects that help sharpen my skills while serving as examples for others on a similar path.  I have a growing interest in Machine Learning and how it applies to DevOps (MlOps).
+I'm a DevOps Engineer and builder focused on cloud automation, infrastructure as code, AI and continuous delivery. I build real-world projects that help sharpen my skills while serving as examples for others on a similar path.  I have a growing interest in Machine Learning and how it applies to DevOps and building great AI powered companies. (MLOps).
 
 ---
 
