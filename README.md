@@ -38,7 +38,7 @@ I didn’t start out in tech - I studied Political Science and spent over 5 year
 
 Since transitioning into DevOps, I’ve built projects across Azure and AWS, worked with IaC (Terraform, Bicep), and deployed containers using Docker and Kubernetes. I’ve written CI/CD pipelines, automated app and infrastructure deployments, and recently completed a multi-cloud project deploying Kubernetes clusters to both AWS and Azure using Terraform and GitHub Actions.
 
-On the side, I’m also building [Indexr](https://indexr.lovable.app) a decentralized crypto index fund platform where I'm applying my DevOps, blockchain and cloud skills to Web3 infrastructure and smart contract deployment.
+On the side, I’m also building [Indexr](https://indexr.lovable.app) a decentralized crypto index fund platform where I'm applying my DevOps, blockchain and cloud skills to Web3 infrastructure and smart contract deployment. Think Vanguard for Crypto.
 
 I'm passionate about using technology to make life easier for users, teams and organizations. 
 Always learning, always building.
