@@ -2,20 +2,20 @@
 
 **`DevOps Engineer | Cloud Automation | CI/CD | Building Reliable Systems`**
 
-I’m a DevOps Engineer who enjoys building things that work — simple, reliable, and automated.  
+I’m a DevOps Engineer who enjoys building things that work and are simple, reliable, and automated.  
 I focus on **cloud platforms, infrastructure as code, and CI/CD pipelines** that make it easy to build, test, and deploy software.  
 
 I like using tools like **Terraform, Bicep, Docker, and Kubernetes** to manage cloud environments on **Azure** and **AWS**.  
 Recently, I built a **multi-cloud Kubernetes project** that runs on both platforms, using **GitHub Actions** for automation.  
 
-I’m also interested in how **AI and DevOps** connect — using automation, data, and MLOps to make systems smarter.  
+I’m also interested in how **AI and DevOps** connect - using automation, data, and MLOps to make systems smarter.  
 Outside work, I’m building **Indexr**, an AI-powered crypto index fund platform, and **Draftley**, an AI writing co-pilot that helps students write faster and better.  
 
-Before tech, I worked in sales, managing big accounts for brands like **BT**, **Pepsi**, and **Budweiser**.  
+Before tech, I worked in sales, managing big accounts for brands like **Pepsi**, and **Budweiser**.  
 That experience helps me understand users and build tools that solve real problems.  
 
-Always learning. Always building.  
-
+Always learning. Always building. 
+Drop me a message - I'm happy to connect
 ---
 
 ### 🧰 Tools & Technologies
@@ -48,12 +48,12 @@ Always learning. Always building.
 
 I didn’t start in tech.  
 I studied **Political Science** and spent a few years in **B2B sales**, managing large accounts for companies like BT and Pepsi.  
-That work taught me how to solve problems, communicate clearly, and stay focused on results — things I still use every day as an engineer.
+That work taught me how to solve problems, communicate clearly, and stay focused on results - things I still use every day as an engineer.
 
-When I switched to tech, I started small — learning scripting, cloud setup, and automation.  
+When I switched to tech, I started small - learning scripting, cloud setup, and automation.  
 Now, I build and manage full cloud systems using **Azure**, **AWS**, **Terraform**, and **Kubernetes**, with pipelines powered by **GitHub Actions** and **Jenkins**.  
 
-I enjoy seeing how everything fits together — from code to infrastructure to end users.  
+I enjoy seeing how everything fits together - from code to infrastructure to end users.  
 Whether I’m working on production systems or building my own tools, my goal is always the same:  
 make things simpler, faster, and more reliable.  
 
