@@ -1,8 +1,20 @@
-# 👋 Michael Obasa  
+# 👋 Hey, I'm Michael Obasa  
 
-**`DevOps Engineer | Cloud Automation | CI/CD | IaC | Building Things That People Want` **
+**`DevOps Engineer | Cloud Automation | CI/CD | Building Reliable Systems`**
 
-I'm a DevOps Engineer and builder focused on cloud automation, infrastructure as code, AI and continuous delivery. I build real-world projects that help sharpen my skills while serving as examples for others on a similar path.  I have a growing interest in Machine Learning and how it applies to DevOps and building great AI powered companies. (MLOps).
+I’m a DevOps Engineer who enjoys building things that work — simple, reliable, and automated.  
+I focus on **cloud platforms, infrastructure as code, and CI/CD pipelines** that make it easy to build, test, and deploy software.  
+
+I like using tools like **Terraform, Bicep, Docker, and Kubernetes** to manage cloud environments on **Azure** and **AWS**.  
+Recently, I built a **multi-cloud Kubernetes project** that runs on both platforms, using **GitHub Actions** for automation.  
+
+I’m also interested in how **AI and DevOps** connect — using automation, data, and MLOps to make systems smarter.  
+Outside work, I’m building **Indexr**, an AI-powered crypto index fund platform, and **Draftley**, an AI writing co-pilot that helps students write faster and better.  
+
+Before tech, I worked in sales, managing big accounts for brands like **BT**, **Pepsi**, and **Budweiser**.  
+That experience helps me understand users and build tools that solve real problems.  
+
+Always learning. Always building.  
 
 ---
 
@@ -14,12 +26,12 @@ I'm a DevOps Engineer and builder focused on cloud automation, infrastructure as
 <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 <img align="left" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="DigitalOcean" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
 <br clear="left"/>
 
@@ -34,16 +46,16 @@ I'm a DevOps Engineer and builder focused on cloud automation, infrastructure as
 
 ### 👨‍💻 My Journey
 
-I didn’t start out in tech - I studied Political Science and spent over 5 years in B2B and enterprise sales, managing multi-million pound accounts for some of the biggest companies in the world like BT, Pepsi, and Budweiser. That experience taught me how to work with stakeholders, solve real problems, and stay client-focused skills I now bring into engineering.
+I didn’t start in tech.  
+I studied **Political Science** and spent a few years in **B2B sales**, managing large accounts for companies like BT and Pepsi.  
+That work taught me how to solve problems, communicate clearly, and stay focused on results — things I still use every day as an engineer.
 
-Since transitioning into DevOps, I’ve built projects across Azure and AWS, worked with IaC (Terraform, Bicep), and deployed containers using Docker and Kubernetes. I’ve written CI/CD pipelines, automated app and infrastructure deployments, and recently completed a multi-cloud project deploying Kubernetes clusters to both AWS and Azure using Terraform and GitHub Actions.
+When I switched to tech, I started small — learning scripting, cloud setup, and automation.  
+Now, I build and manage full cloud systems using **Azure**, **AWS**, **Terraform**, and **Kubernetes**, with pipelines powered by **GitHub Actions** and **Jenkins**.  
 
-On the side, I’m also building [Indexr](https://indexr.lovable.app) a decentralized crypto index fund platform where I'm applying my DevOps, blockchain and cloud skills to Web3 infrastructure and smart contract deployment. Think Vanguard for Crypto.
-
-I'm passionate about using technology to make life easier for users, teams and organizations. 
-Always learning, always building.
-
-"Make something people want" - YC
+I enjoy seeing how everything fits together — from code to infrastructure to end users.  
+Whether I’m working on production systems or building my own tools, my goal is always the same:  
+make things simpler, faster, and more reliable.  
 
 ---
 
@@ -52,3 +64,5 @@ Always learning, always building.
 [LinkedIn](https://www.linkedin.com/in/michael-obasa)  
 [Medium](https://medium.com/@michaelobasa2)  
 [GitHub Portfolio](https://github.com/MichaelObasa)
+
+---
