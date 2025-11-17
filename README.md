@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Michael Obasa  
 
-**`DevOps Engineer | Cloud Automation | CI/CD | Building Reliable Systems`**
+**`DevOps Engineer | | Cloud Automation | CI/CD | Building Reliable Systems`**
 
 I’m a DevOps Engineer who enjoys building things that work and are simple, reliable, and automated.  
 I focus on **cloud platforms, infrastructure as code, and CI/CD pipelines** that make it easy to build, test, and deploy software.  
