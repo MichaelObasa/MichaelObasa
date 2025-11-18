@@ -14,8 +14,6 @@ Outside work, I’m building **Indexr**, an AI-powered crypto index fund platfor
 Before tech, I worked in sales, managing big accounts for brands like **Pepsi**, and **Budweiser**.  
 That experience helps me understand users and build tools that solve real problems.  
 
-Always learning. Always building. 
-Drop me a message - I'm happy to connect
 ---
 
 ### 🧰 Tools & Technologies
