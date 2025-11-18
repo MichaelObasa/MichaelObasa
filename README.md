@@ -12,7 +12,7 @@ I’m also interested in how **AI and DevOps** connect - using automation, data,
 Outside work, I’m building **Indexr**, an AI-powered crypto index fund platform, and **Draftley**, an AI writing co-pilot that helps students write faster and better.  
 
 Before tech, I worked in sales, managing big accounts for brands like **Pepsi**, and **Budweiser**.  
-That experience helps me understand users and build tools that solve real problems.  
+That experience helps me understand users and build tools that solve real problems. 
 
 ---
 
