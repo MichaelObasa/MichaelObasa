@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Michael Obasa  
+# 👋 Hey, I'm Michael  
 
 **`DevOps Engineer | AI Infrastructure | Cloud Automation | CI/CD | Building Reliable Systems`**
 
-I’m a DevOps Engineer who enjoys building things that work and are simple, reliable, and automated.  
+I’m a DevOps Engineer who likes building things that work and are simple, reliable, and automated.  
 I focus on **cloud platforms, infrastructure as code, and CI/CD pipelines** that make it easy to build, test, and deploy software.  
 
 I like using tools like **Terraform, Bicep, Docker, and Kubernetes** to manage cloud environments on **Azure** and **AWS**.  
