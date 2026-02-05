@@ -3,7 +3,7 @@
 **`Cloud Infrastructure Engineer | SRE & Observability | Automating Reliability`**
 
 I’m a Cloud Infrastructure Engineer who builds systems that have to work—no matter what.
-Currently, I manage the hybrid cloud infrastructure at **Volant Media**, helping deliver live news and broadcast content to over **65M+ weekly viewers**.
+Currently, I manage the hybrid cloud infrastructure for a **global broadcast network**, ensuring 24/7 availability for over **65M+ weekly viewers**.
 
 I focus on **reliability and automation**. If a system goes down, I want it to fix itself.
 I use **Terraform** to build infrastructure as code, **Prometheus & Grafana** to keep an eye on system health, and **AWS/Azure** to keep everything running globally.
@@ -55,7 +55,7 @@ I studied **Political Science** and spent a few years in **B2B sales**, managing
 That work taught me how to **solve real business problems**, communicate clearly, and stay focused on results—skills that are just as important as writing code.
 
 When I switched to tech, I started with the basics: scripting and cloud setup.
-Now, I engineer full-scale cloud environments. Whether it's ensuring a live broadcast stream stays stable or automating a crypto transaction, my goal is always the same:
+Now, I engineer full-scale cloud environments for high-traffic platforms. Whether it's ensuring a live broadcast stream stays stable or automating a crypto transaction, my goal is always the same:
 **Make it simple. Make it reliable. Make it automated.**
 
 ---
