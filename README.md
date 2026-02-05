@@ -1,66 +1,71 @@
-# 👋 Hey, I'm Michael   
+# 👋 Hey, I'm Michael
 
-**`DevOps Engineer | AI Infrastructure | Cloud Automation | CI/CD | Building Reliable Systems`**
+**`Cloud Infrastructure Engineer | SRE & Observability | Automating Reliability`**
 
-I’m a DevOps Engineer who likes building things that work and are simple, reliable, and automated.  
-I focus on **cloud platforms, infrastructure as code, and CI/CD pipelines** that make it easy to build, test, and deploy software.  
+I’m a Cloud Infrastructure Engineer who builds systems that have to work—no matter what.
+Currently, I manage the hybrid cloud infrastructure at **Volant Media**, helping deliver live news and broadcast content to over **65M+ weekly viewers**.
 
-I like using tools like **Terraform, Bicep, Docker, and Kubernetes** to manage cloud environments on **Azure** and **AWS**.  
-Recently, I built a **multi-cloud Kubernetes project** that runs on both platforms, using **GitHub Actions** for automation.  
+I focus on **reliability and automation**. If a system goes down, I want it to fix itself.
+I use **Terraform** to build infrastructure as code, **Prometheus & Grafana** to keep an eye on system health, and **AWS/Azure** to keep everything running globally.
 
-I’m also interested in how **AI and DevOps** connect - using automation, data, and MLOps to make systems smarter.  
-Outside work, I’m building **Indexr**, an AI-powered crypto index fund platform, and **Draftley**, an AI writing co-pilot that helps students write faster and better.  
-
-Before tech, I worked in sales, managing big accounts for brands like **Pepsi**, and **Budweiser**.  
-That experience helps me understand users and build tools that solve real problems. 
+I’m also deeply interested in **Programmable Money and AI Agents**.
+In my spare time, I’m building **Indexr**, a decentralized platform that automates financial transactions, and **Draftley**, an AI writing co-pilot. I love building the "rails" that allow AI and financial systems to run autonomously.
 
 ---
 
 ### 🧰 Tools & Technologies
 
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-<img align="left" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="DigitalOcean" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
-<br clear="left"/>
+**Cloud & Infrastructure**
+<br>
+<img alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img alt="DigitalOcean" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
+<br><br>
+
+**SRE, DevOps & Automation**
+<br>
+<img alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img alt="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+<img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br><br>
+
+**Languages & Code**
+<br>
+<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 ---
 
 ### 📈 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelObasa&show_icons=true&theme=gruvbox)  
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelObasa&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelObasa&layout=compact&theme=gruvbox)
 
 ---
 
 ### 👨‍💻 My Journey
 
-I didn’t start in tech.  
-I studied **Political Science** and spent a few years in **B2B sales**, managing large accounts for companies like BT and Pepsi.  
-That work taught me how to solve problems, communicate clearly, and stay focused on results - things I still use every day as an engineer.
+I didn’t start in tech.
+I studied **Political Science** and spent a few years in **B2B sales**, managing large accounts for companies like **BT** and **Pepsi**.
+That work taught me how to **solve real business problems**, communicate clearly, and stay focused on results—skills that are just as important as writing code.
 
-When I switched to tech, I started small - learning scripting, cloud setup, and automation.  
-Now, I build and manage full cloud systems using **Azure**, **AWS**, **Terraform**, and **Kubernetes**, with pipelines powered by **GitHub Actions** and **Jenkins**.  
-
-I enjoy seeing how everything fits together - from code to infrastructure to end users.  
-Whether I’m working on production systems or building my own tools, my goal is always the same:  
-make things simpler, faster, and more reliable.  
+When I switched to tech, I started with the basics: scripting and cloud setup.
+Now, I engineer full-scale cloud environments. Whether it's ensuring a live broadcast stream stays stable or automating a crypto transaction, my goal is always the same:
+**Make it simple. Make it reliable. Make it automated.**
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Where to Find Me
 
-[LinkedIn](https://www.linkedin.com/in/michael-obasa)  
-[Medium](https://medium.com/@michaelobasa2)  
+I share my daily learnings and projects online. Feel free to reach out!
+
+[LinkedIn](https://www.linkedin.com/in/michael-obasa)
+[Medium](https://medium.com/@michaelobasa2)
 [GitHub Portfolio](https://github.com/MichaelObasa)
 
 ---
