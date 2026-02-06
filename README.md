@@ -6,10 +6,10 @@ I’m a Cloud Infrastructure Engineer who builds systems that are technically so
 I currently manage the hybrid cloud infrastructure for a **global broadcast network**, ensuring 24/7 availability for over **65M+ weekly viewers**.
 
 I focus on **reliability and automation**. If a system goes down, I want it to fix itself.
-I use **Terraform** to build infrastructure as code, **Prometheus & Grafana** to keep an eye on system health, and **AWS/Azure** to keep everything running globally.
+I use **Terraform** to build infrastructure as code, monitoring and logging tools to keep an eye on system health, and **AWS/Azure** to keep everything running.
 
-I’m also deeply interested in **Programmable Money and AI Agents**.
-In my spare time, I’m building **Indexr**, a decentralized platform that automates financial transactions, and **Draftley**, an AI writing co-pilot. I love building the "rails" that allow AI and financial systems to run autonomously.
+I’m also interested in **Programmable Money and AI Agents**.
+I’m building **Indexr**, a decentralized platform that automates financial transactions, and in the past have built tools like **Draftley**, an AI writing co-pilot. I like building the "rails" that allow AI and financial systems to run autonomously.
 
 ---
 
