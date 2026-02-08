@@ -9,7 +9,7 @@ I focus on **reliability and automation**. If a system goes down, I want it to f
 I use **Terraform** to build infrastructure as code, monitoring and logging tools to keep an eye on system health, and **AWS/Azure** to keep everything running.
 
 I’m also interested in **Programmable Money and AI Agents**.
-I’m building **Indexr**, a decentralized platform that automates financial transactions, and in the past have built tools like **Draftley**, an AI writing co-pilot. I like building the "rails" that allow AI and financial systems to run autonomously.
+I’m building **Indexr**, a decentralized platform that automates financial transactions, and in the past have built tools like **Draftley**, an AI writing co-pilot. I'm interested in the building "rails" that allow AI and financial systems to work together and run autonomously.
 
 ---
 
