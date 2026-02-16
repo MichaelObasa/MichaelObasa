@@ -52,7 +52,7 @@ I’m building **Indexr**, a decentralized platform that automates financial tra
 
 I didn’t start in tech.
 I studied **Political Science** and spent a few years in **B2B sales** managing large accounts for companies like **BT** and **Pepsi**.
-That taught me how to **solve business problems**, communicate clearly and stay focused on results—skills that are just as important as writing code.
+That taught me how to **solve business problems**, communicate clearly and stay focused on results - skills that are just as important as writing code.
 
 When I switched to tech, I started with the basics: scripting and cloud setup.
 Now, I engineer full-scale cloud environments for high-traffic platforms. Whether it's ensuring a live broadcast stream stays stable or automating a crypto transaction, my goal is always the same:
