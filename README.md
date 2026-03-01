@@ -1,4 +1,3 @@
-# I'm Michael
 
 **`Cloud Infrastructure Engineer | SRE & Observability | Automating Reliability`**
 
