@@ -3,7 +3,7 @@
 **`Cloud Infrastructure Engineer | SRE & Observability | Automating Reliability`**
 
 I’m a Cloud Infrastructure Engineer who builds systems that are technically sound and reliable.
-I currently manage the hybrid cloud infrastructure for a **global broadcast network**, ensuring 24/7 availability for over **65M+ weekly viewers**.
+I currently help to manage the hybrid cloud infrastructure for a **global broadcast network**, ensuring 24/7 availability for over **65M+ weekly viewers**.
 
 I focus on **reliability and automation**. If a system goes down, I want it to fix itself.
 I use **Terraform** to build infrastructure as code, monitoring and logging tools to keep an eye on system health, and **AWS/Azure** to keep everything running.
