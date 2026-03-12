@@ -41,7 +41,7 @@ I’m building **Indexr**, a decentralized platform that automates financial tra
 
 ### 📈 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelObasa&show_icons=true&theme=gruvbox)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelObasa&show_icons=true&theme=gruvbox) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelObasa&layout=compact&theme=gruvbox)
 
 ---
