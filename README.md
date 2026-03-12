@@ -63,7 +63,7 @@ Now, I engineer full-scale cloud environments for high-traffic platforms. Whethe
 I share my daily learnings and projects online. Feel free to reach out! 
 
 [LinkedIn](https://www.linkedin.com/in/michael-obasa)
-[Medium](https://medium.com/@michaelobasa2)
+[Medium](https://medium.com/@michaelobasa2) 
 [GitHub Portfolio](https://github.com/MichaelObasa)
 
 ---
