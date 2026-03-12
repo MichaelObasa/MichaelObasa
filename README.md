@@ -28,7 +28,7 @@ I’m building **Indexr**, a decentralized platform that automates financial tra
 <img alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img alt="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br><br>
+<br><br> 
 
 **Languages & Code**
 <br>
