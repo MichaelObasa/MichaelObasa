@@ -60,7 +60,7 @@ Now, I engineer full-scale cloud environments for high-traffic platforms. Whethe
 
 ### 🔗 Where to Find Me
 
-I share my daily learnings and projects online. Feel free to reach out!
+I share my daily learnings and projects online. Feel free to reach out! 
 
 [LinkedIn](https://www.linkedin.com/in/michael-obasa)
 [Medium](https://medium.com/@michaelobasa2)
