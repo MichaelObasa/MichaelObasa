@@ -1,13 +1,28 @@
-**`Cloud Infrastructure Engineer | SRE & Observability | Automating Reliability`**
+**Cloud Infrastructure Engineer | Reliability, Automation & Distributed Systems**
 
-I’m a Cloud Infrastructure Engineer who builds systems that are technically sound and reliable.
-I currently help to manage the hybrid cloud infrastructure for a **global broadcast network**, ensuring 24/7 availability for over **65M+ weekly viewers**. 
+I build and operate systems that are designed to stay up.
 
-I focus on **reliability and automation**. If a system goes down, I want it to fix itself.
-I use **Terraform** to build infrastructure as code, monitoring and logging tools to keep an eye on system health, and **AWS/Azure** to keep everything running.
+Currently working on hybrid cloud infrastructure for a global broadcast network serving **65M+ weekly viewers**, where uptime isn’t optional. My focus is on making systems resilient, observable, and increasingly self-healing.
 
-I’m also interested in **Programmable Money and AI Agents**.
-I’m building **Indexr**, a decentralized platform that automates financial transactions, and in the past have built tools like **Draftley**, an AI writing co-pilot. I'm interested in the building "rails" that allow AI and financial systems to work together and run autonomously.
+I work across **AWS and Azure**, using **Terraform** to define infrastructure, and monitoring + logging to detect issues before users feel them.
+
+My approach is simple:
+→ reduce manual intervention  
+→ design for failure  
+→ automate everything that can break  
+
+---
+
+I’m also building at the intersection of **finance, infrastructure, and AI**.
+
+I’m the founder of **Indexr** — an automated, non-custodial crypto investing platform designed to bring **Vanguard-style investing to Web3**.  
+
+I’m particularly interested in:
+- programmable money (on-chain financial systems)
+- recurring / automated financial flows
+- AI agents interacting with real-world infrastructure  
+
+Previously, I built **Draftley**, an AI writing co-pilot.
 
 ---
 
@@ -30,7 +45,7 @@ I’m building **Indexr**, a decentralized platform that automates financial tra
 <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br><br> 
 
-**Languages & Code**
+**Languages & Systems**
 <br>
 <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -46,24 +61,26 @@ I’m building **Indexr**, a decentralized platform that automates financial tra
 
 ---
 
-### 👨‍💻 My Journey
+### 👨‍💻 Background
 
 I didn’t start in tech.
-I studied **Political Science** and spent a few years in **B2B sales** managing large accounts for companies like **BT** and **Pepsi**.
-That taught me how to **solve business problems**, communicate clearly and stay focused on results - skills that are just as important as writing code.
 
-When I switched to tech, I started with the basics: scripting and cloud setup.
-Now, I engineer full-scale cloud environments for high-traffic platforms. Whether it's ensuring a live broadcast stream stays stable or automating a crypto transaction, my goal is always the same:
-**Make it simple. Make it reliable. Make it automated.**
+I came from a **sales and commercial background**, managing large accounts across companies like **BT, Pepsi, and Lucozade**. That experience shaped how I think about systems:
+
+→ they need to work in the real world  
+→ they need to be simple to use  
+→ and they need to deliver outcomes, not just look good  
+
+I transitioned into engineering by building from first principles — scripting, cloud infrastructure, and automation — and gradually moved into designing and operating production systems.
+
+Today, whether it's keeping live broadcasts running or building automated financial systems, the goal stays the same:
+
+**Make it reliable. Make it simple. Make it run without you.**
 
 ---
 
 ### 🔗 Where to Find Me
 
-I share my daily learnings and projects online. Feel free to reach out! 
-
-[LinkedIn](https://www.linkedin.com/in/michael-obasa)
-[Medium](https://medium.com/@michaelobasa2) 
+[LinkedIn](https://www.linkedin.com/in/michael-obasa)  
+[Medium](https://medium.com/@michaelobasa2)  
 [GitHub Portfolio](https://github.com/MichaelObasa)
-
----
