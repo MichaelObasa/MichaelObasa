@@ -2,11 +2,7 @@ I work on cloud infrastructure for a global broadcast platform (65M+ weekly view
 
 I’ve worked across AWS, Azure, Terraform, Docker, and Kubernetes.
 
-Outside of work, I’m focused on one thing:
-
-Indexr - a simple way to invest in crypto using automated, index-style portfolios.
-
-It’s the main thing I’m building and spending time on.
+Outside of work, I’m focused on building **Indexr** - an automated crypto index platform (think S&P500 for crypto).
 
 I’m interested in:
 - systems that run without constant input
@@ -17,3 +13,5 @@ Previously built:
 - Draftley (AI writing tool)
 
 I also spend time exploring ideas around AI + education (e.g. Syllabus OS), but that’s secondary.
+
+Always keen to connect with fellow engineers and entreprenurial minded people who like building things!
