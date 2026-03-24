@@ -1,3 +1,5 @@
+Hi, I'm Michael !
+
 I work on cloud infrastructure for a global broadcast platform (65M+ weekly viewers). Most of my time goes into keeping things stable, automating what I can, and figuring out where things break.
 
 I’ve worked across AWS, Azure, Terraform, Docker, and Kubernetes.
