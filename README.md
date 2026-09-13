@@ -1,6 +1,6 @@
 # Michael Obasa
 
-Building OpenShard - Receipts for AI coding agents
+Building @Openshard - Receipts for AI coding agents
 
 I work across cloud infrastructure, automation systems, and AI-native developer tooling.
 
