@@ -21,6 +21,7 @@ A Dropbox-style sync layer for developers. Your code and development environment
 Previously:
 
 **Indexr:** Automated crypto index funds. Think Vanguard-style passive investing for crypto.
+
 **Draftley:** AI writing copilot for students and writing professionals.
 
 ### Interested in
