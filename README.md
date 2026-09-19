@@ -1,28 +1,18 @@
 # Michael Obasa
-Founder & engineer building [Openshard](https://github.com/openshard/openshard), receipts, verification and control infrastructure for AI coding agents.
+Founder & engineer building [**Openshard**](https://github.com/openshard/openshard), receipts for AI coding agents.
 
-I work across **cloud infrastructure, developer tooling and AI-native systems**, with a bias towards building and shipping.
+I build developer tools, AI infrastructure and cloud systems.
 
-Currently focused on:
+## Building
+### Openshard
+**Receipts for AI coding agents.** Captures what coding agents did, verifies their work and creates a durable record of every run. Works across Claude Code, Codex, Cursor, OpenCode and more.
 
-* AI agent infrastructure, orchestration and reliability
-* Receipts, verification, policy and auditability for agent runs
-* Developer infrastructure and local-first tooling
-* AWS, Azure, Terraform, Docker and CI/CD
-* Python and infrastructure automation
+### Stow
+**Your dev environment, on every machine.** Keeps your code and development environment in sync across machines, with lazy fetching so you only pull what you need.
 
-### Building
-**Openshard**
-Infrastructure for making AI coding agents observable, verifiable and controllable. Works across Claude Code, Codex, Cursor, OpenCode and other coding agents.
+## Previously Built
+**Indexr** · Automated crypto index funds. Vanguard for crypto.  
+**Draftley** · AI writing copilot for students and writing professionals.
 
-**AgentDrop**
-A Dropbox-style sync layer for developers. Your code and development environment automatically follow you across machines, with lazy fetching so you only pull what you need, when you need it.
-
-Previously:
-
-**Indexr:** Automated crypto index funds. Think Vanguard-style passive investing for crypto.
-
-**Draftley:** AI writing copilot for students and writing professionals.
-
-### Interested in
-AI agents · developer infrastructure · distributed systems · cloud infrastructure · local-first software · open source · programmable finance · cost-efficient AI infrastructure
+## Stack
+`Python` `TypeScript` `AWS` `Azure` `Terraform` `Docker` `Kubernetes` `GitHub Actions`
