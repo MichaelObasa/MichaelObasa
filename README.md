@@ -1,5 +1,5 @@
 # Michael Obasa
-Founder & engineer building [**OpenShard**](https://github.com/openshard/openshard), receipts for AI coding agents.
+Founder & engineer building [**Openshard**](https://github.com/openshard/openshard), receipts for AI coding agents.
 I build developer tools, AI infrastructure and cloud systems.
 
 ### Openshard
