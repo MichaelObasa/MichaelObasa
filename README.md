@@ -1,17 +1,19 @@
 # Michael Obasa
-Founder & engineer building [**Openshard**](https://github.com/openshard/openshard), receipts for AI coding agents.
-I build developer tools, AI infrastructure and cloud systems.
 
-### Openshard
-**Receipts for AI coding agents.** Captures what coding agents did, verifies their work and creates a durable record of every run. Works across Claude Code, Codex, Cursor, OpenCode and more.
+Founder and engineer building [Openshard](https://github.com/openshard/openshard). I make developer tools, AI infrastructure and cloud systems.
 
-## Side Projects:
-**Tether:**  
-**Context for AI, wherever you're working.** A local-first desktop assistant that connects your workspace to AI with real-time context and source-level evidence.
+## Openshard
+Receipts for AI coding agents. It records what an agent did, checks the work, and keeps a durable record of every run. Works with Claude Code, Codex, Cursor, OpenCode and more.
 
-## Previously Built:
-**Indexr** · Automated crypto index funds. Vanguard for crypto.  
-**Draftley** · AI writing copilot for students and writing professionals.
+`pip install openshard` ·
+
+## Side projects
+- **Tether**: a local-first desktop assistant that connects your workspace to AI, with source-level evidence.
+- **Scribe**: an ingestion tool for building a personal knowledge system.
+
+## Previously
+- **Draftley**: AI writing copilot, reached 30 paying customers.
+- **Indexr**: non-custodial crypto index funds.
 
 ## Stack
 `Python` `TypeScript` `AWS` `Azure` `Terraform` `Docker` `Linux` `GitHub Actions`
